@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearbookBlazor", "YearbookBlazor\YearbookBlazor.csproj", "{4263F71A-17A0-4FC8-97E4-434FB6628FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearbookConsole", "YearbookConsole\YearbookConsole.csproj", "{80BB996A-D7A3-4CA1-AF1C-CEBAF7CE1E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearbookLogic", "YearbookLogic\YearbookLogic.csproj", "{CE55E46C-8E3C-4540-9DE3-B4559C464F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearbookTests", "YearbookTests\YearbookTests.csproj", "{CF2FBDF4-E1B7-4B49-8D73-2BCA03A7FC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4263F71A-17A0-4FC8-97E4-434FB6628FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4263F71A-17A0-4FC8-97E4-434FB6628FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4263F71A-17A0-4FC8-97E4-434FB6628FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4263F71A-17A0-4FC8-97E4-434FB6628FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BB996A-D7A3-4CA1-AF1C-CEBAF7CE1E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BB996A-D7A3-4CA1-AF1C-CEBAF7CE1E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BB996A-D7A3-4CA1-AF1C-CEBAF7CE1E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BB996A-D7A3-4CA1-AF1C-CEBAF7CE1E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE55E46C-8E3C-4540-9DE3-B4559C464F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE55E46C-8E3C-4540-9DE3-B4559C464F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE55E46C-8E3C-4540-9DE3-B4559C464F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE55E46C-8E3C-4540-9DE3-B4559C464F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2FBDF4-E1B7-4B49-8D73-2BCA03A7FC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2FBDF4-E1B7-4B49-8D73-2BCA03A7FC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2FBDF4-E1B7-4B49-8D73-2BCA03A7FC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2FBDF4-E1B7-4B49-8D73-2BCA03A7FC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
